@@ -10,7 +10,15 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://user-images.githubusercontent.com/74038190/219925466-75d83a1e-cb88-4e7b-9c11-6678ce27029f.jpg" width = 50px height = 50px></picture> **About me**
+
+<br>
+
+- A passionate Self-taught Front-end developer
+- Currently enriching my knowledge in Backend development
+- I’m currently open for an Intern or a new job opportunity
+<!-- - Personal website [link](url my portfolio) -->
+<br><br>
 <!--
 Here are some ideas to get you started:
 
