@@ -2,10 +2,6 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianGonzalez24/CristianGonzalez24/main/public/github-meme-dark.gif">
   <img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="100%">
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.png">
-  <img alt="Image changing depending on Dark/Light Github theme mode." src="./light.png" width="100%">
-</picture>
 
 <h1 align="center"><b>Hi , I'm Cristian Gonzalez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
