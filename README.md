@@ -92,7 +92,7 @@
 <div align="center">
 
   <a href="https://github.com/CristianGonzalez24">
-    <picture align="center">
+    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianGonzalez24/CristianGonzalez24/main/public/most_langs_dark.gif">
       <img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="50%">
     </picture>
@@ -101,14 +101,10 @@
 
 <br>
 <br>
-<br>
 
 -----
 
 <br>
-<br>
-
-
 
 <br>
 
