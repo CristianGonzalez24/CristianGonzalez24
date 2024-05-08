@@ -23,11 +23,6 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianGonzalez24/CristianGonzalez24/main/public/most_langs_dark.gif">
-  <img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="50%">
-</picture>
-
 <br>
 
 <p align="center">
@@ -88,6 +83,32 @@
 <br>
 
 -----
+
+<br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+  <a href="https://github.com/CristianGonzalez24">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianGonzalez24/CristianGonzalez24/main/public/most_langs_dark.gif">
+      <img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="50%">
+    </picture>
+  </a>
+</div>
+
+<br>
+<br>
+<br>
+
+-----
+
+<br>
+<br>
+
+
 
 <br>
 
