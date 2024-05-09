@@ -10,18 +10,20 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><b> About me </b>
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently enriching my knowledge in Backend development
-- I’m currently open for an Intern or a new job opportunity
+1️⃣ I'm a full stack developer, I have solid knowledge in web development<br/>
+2️⃣ A passionate Frontend developer, creator of intuitive and dynamic pages<br/>
+3️⃣ A backend developer who develops clean and efficient server-side code<br/>
+4️⃣ I'm currently open to an internship, collaborations or a new job opportunity.<br/>
 <!-- - Personal website [link](url my portfolio) -->
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture><b> Skills </b>
 
 <br>
 
@@ -86,12 +88,12 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture><b> Github Stats </b>
 <br>
 
 <div align="center">
 
-  <a href="https://github.com/CristianGonzalez24">
+  <a href="https://github.com/CristianGonzalez24" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianGonzalez24/CristianGonzalez24/main/public/most_langs_dark.gif">
       <img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="50%">
@@ -110,22 +112,6 @@
 
 <br>
 
-<br>
-
-## 🌐 Socials:
+## <b> Contact me </b><picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></picture>
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](URL SOCIAL MEDIA) --> 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-s-mathew) 
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](URL_LINKEDIN) 
