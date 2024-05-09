@@ -11,7 +11,6 @@
 <br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><b> About me </b>
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 <br>
 
@@ -20,6 +19,11 @@
 3️⃣ A backend developer who develops clean and efficient server-side code<br/>
 4️⃣ I'm currently open to an internship, collaborations or a new job opportunity.<br/>
 <!-- - Personal website [link](url my portfolio) -->
+
+<br>
+<br>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 <br>
 
@@ -84,7 +88,7 @@
 <br>
 <br>
 
------
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 <br>
 
@@ -108,7 +112,7 @@
 <br>
 <br>
 
------
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 <br>
 
