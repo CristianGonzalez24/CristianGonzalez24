@@ -3,15 +3,14 @@
   <img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="100%">
 </picture>
 
-<h1 align="center"><b>Hi , I'm Cristian Gonzalez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Cristian Gonzalez </b><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35px"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Front+End+Developer;Back+End+Developer"></a>
 </p>
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><b> About me </b>
-
+## <picture><img src ="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 50px></picture><b> About me </b>
 <br>
 
 1️⃣ I'm a full stack developer, I have solid knowledge in web development<br/>
@@ -27,7 +26,7 @@
 
 <br>
 
-## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"></picture><b> Skills </b>
+## <picture><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width ="25px"></picture><b> Skills </b>
 
 <br>
 
@@ -120,6 +119,12 @@
 
 <br>
 
-## <b> Contact me </b><picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></picture>
+## <b> Contact me </b><picture><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width ="80px"></picture>
+<a href="https://github.com/CristianGonzalez24" target="_blank">
+  <picture>
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px">
+  </picture>
+</a>
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](URL SOCIAL MEDIA) --> 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](URL_LINKEDIN) 
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](URL_LINKEDIN) -->
+
