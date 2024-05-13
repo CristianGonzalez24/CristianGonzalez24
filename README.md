@@ -3,7 +3,8 @@
   <img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="100%">
 </picture>
 
-<h1 align="center"><b>Hi , I'm Cristian Gonzalez </b><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35px"></h1>
+<h1 align="center"><b>Hi , I'm <a href="https://github.com/CristianGonzalez24" target="blank">
+Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35px"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Front+End+Developer;Back+End+Developer"></a>
 </p>
@@ -14,10 +15,11 @@
 <br>
 
 1️⃣ I'm a full stack developer, I have solid knowledge in web development<br/>
-2️⃣ A passionate Frontend developer, creator of intuitive and dynamic pages<br/>
+2️⃣ 🌱 A passionate Frontend developer, creator of intuitive and dynamic pages<br/>
 3️⃣ A backend developer who develops clean and efficient server-side code<br/>
-4️⃣ I'm currently open to an internship, collaborations or a new job opportunity.<br/>
+4️⃣ 🔭 I'm currently open to an internship, collaborations or a new job opportunity.<br/>
 <!-- - Personal website [link](url my portfolio) -->
+<!-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
 
 <br>
 <br>
@@ -57,10 +59,9 @@
 
 <br>
 
-- **Cloud Hosting**:
+- **Databases**:
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
     
 <br>
 
@@ -78,13 +79,17 @@
 
 <br>
 
+  - **Cloud Hosting**:
+
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+    
+<br>
+
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    
-
 
 </p>
 
@@ -100,7 +105,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/CristianGonzalez24" target="_blank">
+  <a href="https://github.com/CristianGonzalez24?tab=repositories" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianGonzalez24/CristianGonzalez24/main/public/most_langs_dark.gif">
       <img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="50%">
