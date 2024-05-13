@@ -14,9 +14,9 @@ Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/740
 ## <picture><img src ="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 50px></picture><b> About me </b>
 <br>
 
-💻 I'm a full stack developer, I have solid knowledge in web development<br/>
-🌱 A passionate Frontend developer, creator of intuitive and dynamic pages<br/>
-A backend developer who develops clean and efficient server-side code<br/>
+💻 I'm a full stack developer, I have solid knowledge in web development.<br/>
+🌱 A passionate Frontend developer, creator of intuitive and dynamic pages.<br/>
+A backend developer who develops efficient and scalable server-side code.<br/>
 🔭 I'm currently open to an internship, collaborations or a new job opportunity.<br/>
 <!-- - Personal website [link](url my portfolio) -->
 <!-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
