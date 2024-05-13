@@ -14,10 +14,10 @@ Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/740
 ## <picture><img src ="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 50px></picture><b> About me </b>
 <br>
 
-1️⃣ I'm a full stack developer, I have solid knowledge in web development<br/>
-2️⃣ 🌱 A passionate Frontend developer, creator of intuitive and dynamic pages<br/>
-3️⃣ A backend developer who develops clean and efficient server-side code<br/>
-4️⃣ 🔭 I'm currently open to an internship, collaborations or a new job opportunity.<br/>
+💻 I'm a full stack developer, I have solid knowledge in web development<br/>
+🌱 A passionate Frontend developer, creator of intuitive and dynamic pages<br/>
+A backend developer who develops clean and efficient server-side code<br/>
+🔭 I'm currently open to an internship, collaborations or a new job opportunity.<br/>
 <!-- - Personal website [link](url my portfolio) -->
 <!-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
 
@@ -44,7 +44,7 @@ Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/740
     
 - **Front-End Development**:
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,vite)](https://skillicons.dev)
 
 <br>
 
@@ -60,9 +60,15 @@ Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/740
     
 <br>
 
+- **Testing**:
+
+    [![My Skills](https://skillicons.dev/icons?i=jest,vitest,postman)](https://skillicons.dev)
+    
+<br>
+
 - **Softwares and Tools**:
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,md,bash,windows,linux,figma)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,md,bash,powershell,windows,linux,figma)](https://skillicons.dev)
 
 <br>
 
@@ -112,7 +118,7 @@ Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/740
 <br>
 
 ## <b> Contact me </b><picture><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width ="80px"></picture>
-<a href="https://github.com/CristianGonzalez24" target="_blank">
+<a href="" target="_blank">
   <picture>
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px">
   </picture>
