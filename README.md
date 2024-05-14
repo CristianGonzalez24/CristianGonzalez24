@@ -8,13 +8,11 @@ Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/740
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Front+End+Developer;Back+End+Developer"></a>
 </p>
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
-	</a>
 
-</p>
+<div align="center"> 
+	
+![](https://komarev.com/ghpvc/?username=CristianGonzalez24&color=00d55e&style=for-the-badge&abbreviated=true)
+</div>
 
 <br>
 
@@ -29,6 +27,7 @@ Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/740
 A backend developer who develops efficient and scalable server-side code.<br/>
 🔭 I'm currently open to an internship, collaborations or a new job opportunity.<br/>
 📚 Always focused on learning new things.<br/>
+🐍 I'm currently learning python to enter the world of AI.
 <!-- - Personal website [link](url my portfolio) -->
 <!-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
 
