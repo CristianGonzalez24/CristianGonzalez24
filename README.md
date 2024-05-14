@@ -23,12 +23,13 @@ Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/740
 <br>
 
 💻 I'm a full stack developer, I have solid knowledge in web development.<br/>
-🌱 A passionate Frontend developer, creator of intuitive and dynamic pages.<br/>
-A backend developer who develops efficient and scalable server-side code.<br/>
+💡 A passionate Frontend developer, creator of intuitive and dynamic pages.<br/>
+🚀 A backend developer who develops efficient and scalable server-side code.<br/>
+🌎 I love exploring new technologies and develop software solutions.<br/>
 🔭 I'm currently open to an internship, collaborations or a new job opportunity.<br/>
-📚 Always focused on learning new things.<br/>
-🐍 I'm currently learning python to enter the world of AI.
-<!-- - Personal website [link](url my portfolio) -->
+📚 Always focused on deepening my knowledge.<br/>
+🎓 I'm on track to learning about cloud architecture, artificial intelligence, and web security.<br/>
+<!-- 🌐 Personal website [link](url my portfolio) -->
 <!-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
 
 <br>
