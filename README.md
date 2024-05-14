@@ -8,16 +8,27 @@ Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/740
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Front+End+Developer;Back+End+Developer"></a>
 </p>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+	<a href = "https://commits.top/egypt.html" target="_blank">
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
+	</a>
+
+</p>
 
 <br>
 
 ## <picture><img src ="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 50px></picture><b> About me </b>
+
+<picture><img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width = 250px></picture>
+
 <br>
 
 💻 I'm a full stack developer, I have solid knowledge in web development.<br/>
 🌱 A passionate Frontend developer, creator of intuitive and dynamic pages.<br/>
 A backend developer who develops efficient and scalable server-side code.<br/>
 🔭 I'm currently open to an internship, collaborations or a new job opportunity.<br/>
+📚 Always focused on learning new things.<br/>
 <!-- - Personal website [link](url my portfolio) -->
 <!-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
 
@@ -90,6 +101,13 @@ A backend developer who develops efficient and scalable server-side code.<br/>
 <br>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+<br>
+
+<div align="center">
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dark&type=horizontal&border=true)](https://github.com/piyushsuthar/github-readme-quotes) 
+</div>
 
 <br>
 
