@@ -22,7 +22,7 @@ Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/740
 
 <br>
 
-💻 I'm a full stack developer, I have solid knowledge in web development.<br/>
+💻 I'm a Full Stack Developer with experience designing, developing and implementing applications and solutions using various technologies and programming languages.<br/>
 💡 A passionate Frontend developer, creator of intuitive and dynamic pages.<br/>
 🚀 A backend developer who develops efficient and scalable server-side code.<br/>
 🌎 I love exploring new technologies and develop software solutions.<br/>
@@ -126,8 +126,16 @@ Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/740
       <img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="50%">
     </picture>
   </a>
+
+
 </div>
 
+<br>
+
+<div align=center>
+	
+**Happy Coding!** 😊
+</div>
 <br>
 <br>
 
