@@ -28,7 +28,7 @@ Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/740
 🌎 I love exploring new technologies and develop software solutions.<br/>
 🔭 I'm currently open to an internship, collaborations or a new job opportunity.<br/>
 📚 Always focused on deepening my knowledge.<br/>
-🎓 I'm on track to learning about cloud architecture, artificial intelligence, and web security.<br/>
+🎓 I'm on track to learning about cloud architecture, machine learning and web security.<br/>
 <!-- 🌐 Personal website [link](url my portfolio) -->
 <!-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
 
