@@ -146,11 +146,11 @@ Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/740
 <br>
 
 ## <b> Contact me </b><picture><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width ="80px"></picture>
-<a href="" target="_blank">
-
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px"/>
-</a>
-	
+  <a href="" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px"/>
+  </a>
+  
+<!-- [<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50px"/>](## "cristiangonzalez96")	-->
 <!-- [<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50px"/>](## "cristiangonzalez96") --> 
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](URL SOCIAL MEDIA) --> 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](URL_LINKEDIN) -->
