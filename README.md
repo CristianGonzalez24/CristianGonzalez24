@@ -5,9 +5,18 @@
 
 <h1 align="center"><b>Hi , I'm <a href="https://github.com/CristianGonzalez24" target="blank">
 Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35px"></h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Front+End+Developer;Back+End+Developer"></a>
 </p>
+
+<hr/>
+
+<h4 align="center">I'm a Full Stack Developer with experience designing, developing and implementing applications and solutions using various technologies and programming languages.<br/> 
+	I love meeting new people, exchanging ideas, spreading knowledge and positivity.<br/> 
+	Taking on new challenges, expanding and honing my skills is part of my nature.</h4>
+
+<br>
 
 <div align="center"> 
 	
@@ -22,8 +31,7 @@ Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/740
 
 <br>
 
-💻 <b>I'm a Full Stack Developer with experience designing, developing and implementing applications and solutions using various technologies and programming languages.<br/>
-💡 A passionate Frontend developer, creator of intuitive and dynamic pages.<br/>
+💻 <b>A passionate Frontend developer, creator of intuitive and dynamic pages.<br/>
 🚀 A backend developer who develops efficient and scalable server-side code.<br/>
 🌎 I love exploring new technologies and develop software solutions.<br/>
 🔭 I'm currently open to an internship, collaborations or a new job opportunity.<br/>
