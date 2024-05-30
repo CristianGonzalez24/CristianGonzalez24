@@ -54,57 +54,55 @@ Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/740
 
 <p align="center">
 
-<!-- - **Languages**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br> -->
-    
 - **Front-End Development**:
 
-    [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,vite)](https://skillicons.dev)
+	[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,vite)](https://skillicons.dev)
 
 <br>
 
 - **Back-End Development**:
 
-    [![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs)](https://skillicons.dev)
+	[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,nodejs)](https://skillicons.dev)
 
 <br>
 
 - **Databases**:
 
-    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+	[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
     
 <br>
 
 - **Testing**:
 
-    [![My Skills](https://skillicons.dev/icons?i=jest,vitest,postman)](https://skillicons.dev)
+	[![My Skills](https://skillicons.dev/icons?i=jest,selenium,postman,vitest)](https://skillicons.dev)
     
+<br>
+
+- **Cloud Hosting**:
+
+	[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
+<br>
+
+- **Version Control & CI/CD**:
+
+	[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker)](https://skillicons.dev)
+  
 <br>
 
 - **Softwares and Tools**:
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,md,bash,powershell,windows,linux,figma)](https://skillicons.dev)
+	[![My Skills](https://skillicons.dev/icons?i=vscode,idea,bash,powershell,windows,linux,md,figma)](https://skillicons.dev)
 
-<br>
-
-  - **Cloud Hosting**:
-
-    [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-    
 <br>
 
 - **Extras**:
 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+	![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+	![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+	![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+	![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+	![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </p>
 
