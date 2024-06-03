@@ -12,9 +12,9 @@ Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/740
 
 <hr/>
 
-<h4 align="center">I'm a Full Stack Developer with experience designing, developing and implementing applications and solutions using various technologies and programming languages.<br/> 
-	I love meeting new people, exchanging ideas, spreading knowledge and positivity.<br/> 
-	Taking on new challenges, expanding and honing my skills is part of my nature.</h4>
+<h3 align="center">I'm a Full Stack Developer with experience designing, developing and implementing applications and solutions using various technologies and programming languages.<br/> 
+I love meeting new people, exchanging ideas, spreading knowledge and positivity.<br/> 
+Taking on new challenges, expanding and honing my skills is part of my nature.</h3>
 
 <br>
 
