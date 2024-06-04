@@ -113,6 +113,7 @@ Taking on new challenges, expanding and honing my skills is part of my nature.</
 
 <br>
 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <div align="center">
   
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dark&type=horizontal&border=true)](https://github.com/piyushsuthar/github-readme-quotes) 
