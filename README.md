@@ -32,7 +32,7 @@ Taking on new challenges, expanding and honing my skills is part of my nature.</
 <br>
 
 💻 <b>A passionate Frontend developer, creator of intuitive and dynamic pages.<br/>
-🚀 A backend developer who develops efficient and scalable server-side code.<br/>
+🚀 A backend developer who builds efficient and scalable server-side code.<br/>
 🌎 I love exploring new technologies and develop software solutions.<br/>
 🔭 I'm currently open to an internship, collaborations or a new job opportunity.<br/>
 📚 Always focused on deepening my knowledge.<br/>
@@ -158,6 +158,18 @@ Taking on new challenges, expanding and honing my skills is part of my nature.</
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px"/>
   </a>
 
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](URL SOCIAL MEDIA) --> 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](URL_LINKEDIN) -->
+<!-- <h2 align="center"><u>My Best Works</u></h2>
+
+| Name                  | Description                                                |
+| ---------------------------------|--------------------------------------------------------------- |
+| _[Repository Readme Generator](https://github.com/KasRoudra/repository-readme-generator)_            | Generate a beautiful Readme.md for your repository.             |
+| _[PyPhisher](https://github.com/KasRoudra/pyphisher)_                          | Ultimate phishing tool in python with 64 website templates.     |
+| _[YT-Downloader](https://github.com/KasRoudra/YT-Downloader)_                  | Download youtube audio or videos from command line.             |
+| _[MusPlayer](https://github.com/KasRoudra/MusPlayer)_                         | Play music in termux by mpv.                                     |
+| _[Messenger-Desktop](https://github.com/KasRoudra/messengerdesktop)_           |  Messenger in desktop mode for easy file sharing.                |
+| _[K-Fuscator](https://github.com/KasRoudra/k-fuscator)_                       | Encrypt or decrypt shell script and compile python scripts       |
+| _[CamHacker](https://github.com/KasRoudra/CamHacker)_                         | Hack anyone's camera with a phishing link.                       |
+| _[Local2Internet](https://github.com/KasRoudra/Local2Internet)_               | Expose locally hosted website into all over internet.            |
+<h4 align="center">All of these are open source!</h4> -->
+
 
