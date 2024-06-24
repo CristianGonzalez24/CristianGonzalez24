@@ -6,10 +6,10 @@
 <h1 align="center"><b>Hi , I'm <a href="https://github.com/CristianGonzalez24" target="blank">
 Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35px"></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Front+End+Developer;Back+End+Developer"></a>
-</p>
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Front+End+Developer;Back+End+Developer)](https://git.io/typing-svg)
+</div>
 <hr/>
 
 <h4 align="center">I'm a Full Stack Developer with experience designing, developing and implementing applications and solutions using various technologies and programming languages.<br/> 
