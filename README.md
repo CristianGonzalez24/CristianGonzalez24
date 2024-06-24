@@ -12,9 +12,10 @@ Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/740
 </div>
 <hr/>
 
-<h4 align="center">I'm a Full Stack Developer with experience designing, developing and implementing applications and solutions using various technologies and programming languages.<br/> 
+<h3 align="center">I'm a Full Stack Developer with experience designing, developing and implementing applications and solutions using various technologies and programming languages.<br/></h3>
+<!--
 I love meeting new people, exchanging ideas, spreading knowledge and positivity.<br/> 
-Taking on new challenges, expanding and honing my skills is part of my nature.</h4>
+-->
 
 <br>
 
@@ -35,7 +36,7 @@ Taking on new challenges, expanding and honing my skills is part of my nature.</
 🚀 A backend developer who builds efficient and scalable server-side code.<br/>
 🌎 I love exploring new technologies and develop software solutions.<br/>
 🔭 I'm currently open to an internship, collaborations or a new job opportunity.<br/>
-📚 Always focused on deepening my knowledge.<br/>
+🌱 Taking on new challenges, expanding and honing my skills is part of my nature.<br/>
 🎓 I'm on track to learning about cloud architecture, machine learning and web security.<br/>
 ✨ Fun fact: I love coding(💻), training(💪), eating(🍔), sleeping(💤) and drinking coffee(☕).</b><br/>
 <!-- 🌐 Personal website [link](url my portfolio) -->
