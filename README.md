@@ -4,15 +4,17 @@
 </picture>
 
 <h1 align="center"><b>Hi , I'm <a href="https://github.com/CristianGonzalez24" target="blank">
-Cristian Gonzalez</a></b><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35px"></h1>
+Cristian Gonzalez</a><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35px"></h1>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Front+End+Developer;Back+End+Developer)](https://git.io/typing-svg)
+
 </div>
+
 <hr/>
 
-<h3 align="center">I'm a Full Stack Developer with experience designing, developing and implementing applications and solutions using various technologies and programming languages.<br/></h3>
+<h4 align="center">I'm a Full Stack Developer with experience designing, developing and implementing applications and solutions using various technologies and programming languages.</h4>
 <!--
 I love meeting new people, exchanging ideas, spreading knowledge and positivity.<br/> 
 -->
@@ -22,6 +24,7 @@ I love meeting new people, exchanging ideas, spreading knowledge and positivity.
 <div align="center"> 
 	
 ![](https://komarev.com/ghpvc/?username=CristianGonzalez24&color=00d55e&style=for-the-badge&abbreviated=true)
+
 </div>
 
 <br>
@@ -118,11 +121,13 @@ I love meeting new people, exchanging ideas, spreading knowledge and positivity.
 <div align="center">
   
   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=dark&type=horizontal&border=true)](https://github.com/piyushsuthar/github-readme-quotes) 
+  
 </div>
 
 <br>
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture><b> Github Stats </b>
+
 <br>
 
 <div align="center">
@@ -146,7 +151,9 @@ I love meeting new people, exchanging ideas, spreading knowledge and positivity.
 <div align=center>
 	
 **Happy Coding!** 😊
+
 </div>
+
 <br>
 <br>
 
@@ -156,9 +163,9 @@ I love meeting new people, exchanging ideas, spreading knowledge and positivity.
 
 ## <b> Contact me </b><picture><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width ="80px"></picture>
 [<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50px"/>](## "cristiangonzalez96")
-  <a href="" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px"/>
-  </a>
+<a href="" target="_blank">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px"/>
+</a>
 
 <!-- <h2 align="center"><u>My Best Works</u></h2>
 
