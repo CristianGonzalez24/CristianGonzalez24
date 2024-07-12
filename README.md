@@ -37,7 +37,7 @@ I love meeting new people, exchanging ideas, spreading knowledge and positivity.
 🌎 I love exploring new technologies and develop software solutions.<br/>
 🔭 I'm currently open to an internship, collaborations or a new job opportunity.<br/>
 🌱 Taking on new challenges, expanding and honing my skills is part of my nature.<br/>
-🎓 I'm on track to learning about cloud architecture, machine learning and web security.<br/>
+📚 I'm on track to learning about cloud architecture, machine learning and web security.<br/>
 ✨ Fun fact: I love coding(💻), training(💪), eating(🍔), sleeping(💤) and drinking coffee(☕).</b><br/>
 <!-- 🌐 Personal website [link](url my portfolio) -->
 <!-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
