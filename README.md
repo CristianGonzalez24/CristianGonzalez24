@@ -132,16 +132,20 @@ I love meeting new people, exchanging ideas, spreading knowledge and positivity.
 
 <div align="center">
 
-  <a href="https://github.com/CristianGonzalez24?tab=repositories" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianGonzalez24/CristianGonzalez24/main/public/most_langs_dark.gif">
-      <img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="50%">
-    </picture>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianGonzalez24/CristianGonzalez24/main/public/langs_overview_dark.gif">
-      <img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="50%">
-    </picture>
-  </a>
+<a href="https://github.com/CristianGonzalez24?tab=repositories" target="_blank">
+<picture>
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianGonzalez24&layout=compact&theme=github_dark&card_width=500px&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</picture>
+	
+<picture>
+	
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianGonzalez24/CristianGonzalez24/main/public/langs_overview_dark.gif">
+<img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="50%">
+
+</picture>
+</a>
 
 
 </div>
@@ -150,7 +154,7 @@ I love meeting new people, exchanging ideas, spreading knowledge and positivity.
 
 <div align=center>
 	
-**Happy Coding!** 😊
+**Happy Coding!** 😎
 
 </div>
 
@@ -181,4 +185,7 @@ I love meeting new people, exchanging ideas, spreading knowledge and positivity.
 | _[Local2Internet](https://github.com/KasRoudra/Local2Internet)_               | Expose locally hosted website into all over internet.            |
 <h4 align="center">All of these are open source!</h4> -->
 
-
+<!-- <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianGonzalez24/CristianGonzalez24/main/public/most_langs_dark.gif">
+      <img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="50%">
+    </picture>  -->
