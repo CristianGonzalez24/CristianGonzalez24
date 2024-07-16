@@ -148,7 +148,7 @@ I love meeting new people, exchanging ideas, spreading knowledge and positivity.
 
 <picture>
 	
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics">
   
 </picture>
 
