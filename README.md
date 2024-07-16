@@ -145,6 +145,13 @@ I love meeting new people, exchanging ideas, spreading knowledge and positivity.
 <img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="50%">
 
 </picture>
+
+<picture>
+	
+  <img src="/github-metrics.svg" alt="Metrics">
+  
+</picture>
+
 </a>
 
 
