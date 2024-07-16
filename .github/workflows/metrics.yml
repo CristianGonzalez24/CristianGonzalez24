@@ -1,7 +1,7 @@
 name: Metrics
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "00 18 * * 5"
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
