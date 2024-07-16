@@ -135,20 +135,21 @@ I love meeting new people, exchanging ideas, spreading knowledge and positivity.
 <a href="https://github.com/CristianGonzalez24?tab=repositories" target="_blank">
 <picture>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianGonzalez24&layout=compact&theme=github_dark&card_width=500px&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianGonzalez24&layout=compact&theme=github_dark&card_width=600px&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </picture>
 	
 <picture>
 	
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianGonzalez24/CristianGonzalez24/main/public/langs_overview_dark.gif">
-<img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="50%">
+
+<img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="60%">
 
 </picture>
 
 <picture>
 	
-  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="500">
+  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="600">
   
 </picture>
 
