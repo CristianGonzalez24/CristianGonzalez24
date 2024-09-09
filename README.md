@@ -66,7 +66,7 @@ I love meeting new people, exchanging ideas, spreading knowledge and positivity.
 
 - **Back-End Development**:
 
-	[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,nodejs)](https://skillicons.dev)
+	[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express)](https://skillicons.dev)
 
 <br>
 
@@ -192,8 +192,3 @@ I love meeting new people, exchanging ideas, spreading knowledge and positivity.
 | _[CamHacker](https://github.com/KasRoudra/CamHacker)_                         | Hack anyone's camera with a phishing link.                       |
 | _[Local2Internet](https://github.com/KasRoudra/Local2Internet)_               | Expose locally hosted website into all over internet.            |
 <h4 align="center">All of these are open source!</h4> -->
-
-<!-- <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianGonzalez24/CristianGonzalez24/main/public/most_langs_dark.gif">
-      <img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="50%">
-    </picture>  -->
