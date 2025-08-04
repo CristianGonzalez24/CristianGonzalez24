@@ -138,7 +138,7 @@ Cristian Gonzalez</a><img src="https://user-images.githubusercontent.com/7403819
 
 <br>
 
-## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture><b> Github Stats </b>
+## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture><b> GitHub Statistics </b>
 
 <br>
 
@@ -165,9 +165,13 @@ Cristian Gonzalez</a><img src="https://user-images.githubusercontent.com/7403819
   
 </picture>
 
+<picture>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CristianGonzalez24&theme=tokyonight)](https://git.io/streak-stats)
+
+</picture>
+
 </a>
-
-
 </div>
 
 <br>
@@ -179,17 +183,67 @@ Cristian Gonzalez</a><img src="https://user-images.githubusercontent.com/7403819
 </div>
 
 <br>
-<br>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 <br>
 
-## <b> Contact me </b><picture><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width ="80px"></picture>
-[<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50px"/>](## "cristiangonzalez96")
+## 🌟 What I Bring to the Table
+
+```javascript
+const cristianGonzalez = {
+  code: ['JavaScript', 'Java', 'HTML', 'CSS', 'SQL'],
+  technologies: {
+    frontEnd: ['React', 'SASS', 'Responsive Design'],
+    backEnd: ['Node.js', 'Express', 'RESTful APIs'],
+    databases: ['MySQL', 'MongoDB'],
+    tools: ['Git', 'Vite', 'Axios', 'Zod']
+  },
+  strengths: [
+    'Quick learner',
+    'Problem solver',
+    'Team collaboration',
+    'Attention to detail',
+    'Growth mindset'
+  ],
+  currentFocus: 'Building production-ready applications',
+  funFact: 'I debug with console.log() and I\'m not ashamed! 😄'
+};
+```
+
+<br>
+
+## <picture><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width ="80px"></picture><b>Let's Connect!</b>
+I'm always excited to connect with fellow developers, potential mentors, and employers who are looking for someone passionate about web development!
+<div align="center">
+
+ [<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50px"/>](## "cristiangonzalez96")
 <a href="" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px"/>
 </a>
+<!--
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristiangonzalez-dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://cristiangonzalez.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristian.gonzalez.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cristiangonzalez)
+-->
+</div>
+
+---
+
+<div align="center">
+  
+### 💼 Open to Opportunities
+**I'm actively seeking my first role as a full-stack developer!**
+
+If you're looking for someone who brings **enthusiasm**, **dedication**, and a **strong willingness to learn**, let's talk!
+
+---
+
+⭐️ From [Cristian Gonzalez](https://github.com/CristianGonzalez24) | *Building the web, one commit at a time* 🚀
+
+</div>
+
 
 <!-- <h2 align="center"><u>My Best Works</u></h2>
 
