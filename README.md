@@ -12,12 +12,10 @@ Cristian Gonzalez</a><img src="https://user-images.githubusercontent.com/7403819
 
 </div>
 
-<hr/>
+---
 
-<h4 align="center">I'm a Full Stack Developer with experience designing, developing and implementing applications and solutions using various technologies and programming languages.</h4>
-<!--
-I love meeting new people, exchanging ideas, spreading knowledge and positivity.<br/> 
--->
+<h4 align="center">I'm a curious and passionate Full Stack Developer, who loves turning ideas into interactive digital experiences. With a strong foundation in both frontend and backend technologies, I'm constantly learning and pushing myself to grow professionally.</h4>
+
 
 <br>
 
@@ -35,17 +33,18 @@ I love meeting new people, exchanging ideas, spreading knowledge and positivity.
 
 <br>
 
-💻 <b>A passionate Frontend developer, creator of intuitive and dynamic pages.<br/>
-🚀 A backend developer who builds efficient and scalable server-side code.<br/>
-🌎 I love exploring new technologies and develop software solutions.<br/>
-🔭 I'm currently open to an internship, collaborations or a new job opportunity.<br/>
-🌱 Taking on new challenges, expanding and honing my skills is part of my nature.<br/>
-📚 I'm on track to learning about cloud architecture, machine learning and web security.<br/>
-⚡ Fun fact: I love coding(💻), training(💪), eating(🍔), sleeping(💤) and drinking coffee(☕).</b><br/>
+💻 <b>A passionate Front-end Developer who creates intuitive, dynamic, and accessible web interfaces.<br/>
+🚀 A Backend Developer who builds efficient and scalable server-side code.<br/>
+🔭 Currently open to internships, freelance collaborations, or full-time opportunities.<br/>
+🌎 I love exploring new technologies and developing software solutions.<br/>
+🌱 I'm always eager to take on new challenges and continuously refine my skills.<br/>
+📚 I'm currently learning about cloud architecture, machine learning, and web security.<br/>
+💡 I believe in **clean code**, **user-centered design**, and **continuous learning**.<br/>
+🎯 Improving my English communication skills to better collaborate globally.<br/>
+⚡  Fun fact: I love coding(💻), training(💪), eating(🍔), sleeping(💤) and drinking coffee(☕).</b><br/>
 <!-- 🌐 Personal website [link](url my portfolio) -->
 <!-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
 
-<br>
 <br>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
@@ -58,49 +57,49 @@ I love meeting new people, exchanging ideas, spreading knowledge and positivity.
 
 <p align="center">
 
-- **Front-End Development**:
+- ### Frontend Development:
 
 	[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,vite)](https://skillicons.dev)
 
 <br>
 
-- **Back-End Development**:
+- ### Backend Development:
 
 	[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express)](https://skillicons.dev)
 
 <br>
 
-- **Databases**:
+- ### Databases:
 
 	[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
     
 <br>
 
-- **Testing**:
+- ### Testing:
 
 	[![My Skills](https://skillicons.dev/icons?i=jest,selenium,postman,vitest)](https://skillicons.dev)
     
 <br>
 
-- **Cloud Hosting**:
+- ### Cloud Hosting:
 
 	[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 <br>
 
-- **Version Control & CI/CD**:
+- ### Version Control & CI/CD:
 
 	[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker)](https://skillicons.dev)
   
 <br>
 
-- **Softwares and Tools**:
+- ### Softwares and Tools:
 
 	[![My Skills](https://skillicons.dev/icons?i=vscode,idea,bash,powershell,windows,linux,md,figma)](https://skillicons.dev)
 
 <br>
 
-- **Extras**:
+- ### Extras:
 
 	![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 	![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -111,9 +110,22 @@ I love meeting new people, exchanging ideas, spreading knowledge and positivity.
 </p>
 
 <br>
-<br>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+
+<br>
+
+## 📚 Currently Learning
+
+<div align="center">
+
+| 🔐 Security | 🎨 UI/UX | ⚛️ React Advanced | 🧪 Quality Assurance |
+|-------------|-----------|-------------------|----------------------|
+| OAuth 2.0 Authentication | Web Accessibility | Infinite Scrolling | Code Testing |
+| Secure Cookie Management | UI/UX Best Practices | Context API Patterns | Documentation |
+| Refresh Token Strategies | Responsive Design | Performance Optimization | Code Reviews |
+
+</div>
 
 <br>
 
