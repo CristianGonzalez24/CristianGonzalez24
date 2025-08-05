@@ -115,7 +115,7 @@ With a solid foundation in both frontend and backend technologies, I'm constantl
 
 <br/>
 
-## 📚 Currently Learning
+## <picture><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODR1OXgydms5MHMyNG85cDVwYjg5Z3kzMnIwcmJxMXNwYjJibGg4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GrPgFtvyLlgElFiO7m/giphy.gif" width="25px"></picture> <b>Currently Learning</b>
 
 <div align="center">
 
@@ -246,6 +246,7 @@ If you're looking for someone who brings **enthusiasm**, **dedication**, and a *
 
 
 <!-- <h2 align="center"><u>My Best Works</u></h2>
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczAxbTBybnVqZzhybWR1ZWptbHN6aGQybWU0NGcyMzl4NnB4eGI2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DQMDis4Dc8ujx9nCcE/giphy.gif
 
 | Name                  | Description                                                |
 | ---------------------------------|--------------------------------------------------------------- |
