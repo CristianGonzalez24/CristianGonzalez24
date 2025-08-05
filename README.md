@@ -1,119 +1,119 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianGonzalez24/CristianGonzalez24/main/public/github-meme-dark.gif">
-  <img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="100%">
+  <img alt="Welcome banner using GitHub contribution squares" src="https://raw.githubusercontent.com/CristianGonzalez24/CristianGonzalez24/main/public/github-meme-light.gif" width="100%">
 </picture>
 
-<h1 align="center"><b>Hi , I'm <a href="https://github.com/CristianGonzalez24" target="blank">
-Cristian Gonzalez</a><img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35px"></h1>
+<h1 align="center">
+  Hi, I'm <a href="https://github.com/CristianGonzalez24" target="_blank">Cristian Gonzalez</a>
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="35px" alt="Waving hand animation">
+</h1>
+
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Front+End+Developer;Back+End+Developer)](https://git.io/typing-svg)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;Frontend+-+Backend+Enthusiast;Always+Learning+New+Technologies;Passionate+about+Clean+Code)](https://git.io/typing-svg)
 
 ---
 
-<h4 align="center">I'm a curious and passionate Full Stack Developer, who loves turning ideas into interactive digital experiences. With a strong foundation in both frontend and backend technologies, I'm constantly learning and pushing myself to grow professionally.</h4>
-
+<h4 align="center">
+I'm a curious and passionate Full Stack Developer who loves turning ideas into interactive digital experiences.
+With a solid foundation in both frontend and backend technologies, I'm constantly learning and striving to grow professionally.
+</h4>
 
 <br>
 
-<div align="center"> 
-	
-![](https://komarev.com/ghpvc/?username=CristianGonzalez24&color=00d55e&style=for-the-badge&abbreviated=true)
+<img src="https://komarev.com/ghpvc/?username=CristianGonzalez24&color=00d55e&style=for-the-badge&abbreviated=true" alt="Profile views"/>
 
+<br>
 </div>
 
-<br>
+## <picture><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50px"></picture> <b>About Me</b>
 
-## <picture><img src ="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width = 50px></picture><b> About me </b>
+<picture>
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="250px">
+</picture>
 
-<picture><img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width = 250px></picture>
+<br/>
 
-<br>
+💻 <b>A passionate Front-end Developer who creates intuitive, dynamic, and accessible web interfaces.</b>  
+🚀 <b>Also skilled in Back-end development, building efficient and scalable server-side code.</b>  
+🔭 <b>Currently open to internships, freelance collaborations, or full-time opportunities.</b>  
+🌎 <b>I love exploring new technologies and developing software solutions.</b>  
+🌱 <b>I'm always eager to take on new challenges and continuously refine my skills.</b>  
+📚 <b>Currently learning about cloud architecture, machine learning, and web security.</b>  
+💡 <b>I believe in <i>clean code</i>, <i>user-centered design</i>, and <i>continuous learning</i>.</b>  
+🎯 <b>Improving my English communication skills to better collaborate globally.</b>  
+⚡ <b>Fun fact: I love coding (💻), training (💪), eating (🍔), sleeping (💤), and drinking coffee (☕).</b>
 
-💻 <b>A passionate Front-end Developer who creates intuitive, dynamic, and accessible web interfaces.<br/>
-🚀 A Backend Developer who builds efficient and scalable server-side code.<br/>
-🔭 Currently open to internships, freelance collaborations, or full-time opportunities.<br/>
-🌎 I love exploring new technologies and developing software solutions.<br/>
-🌱 I'm always eager to take on new challenges and continuously refine my skills.<br/>
-📚 I'm currently learning about cloud architecture, machine learning, and web security.<br/>
-💡 I believe in **clean code**, **user-centered design**, and **continuous learning**.<br/>
-🎯 Improving my English communication skills to better collaborate globally.<br/>
-⚡  Fun fact: I love coding(💻), training(💪), eating(🍔), sleeping(💤) and drinking coffee(☕).</b><br/>
 <!-- 🌐 Personal website [link](url my portfolio) -->
-<!-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
+<!-- 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="_blank">Resume</a> -->
 
-<br>
+<br/>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
+</p>
 
-<br>
+<br/>
 
-## <picture><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width ="25px"></picture><b> Skills </b>
+## <picture><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25px"></picture> <b>Skills</b>
 
-<br>
+<br/>
 
 <p align="center">
 
-- ### Frontend Development:
+### 🧩 <b>Frontend Development</b>  
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,vite)](https://skillicons.dev)
 
-	[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,vite)](https://skillicons.dev)
+<br/>
 
-<br>
+### 🔧 <b>Backend Development</b>  
+[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express)](https://skillicons.dev)
 
-- ### Backend Development:
+<br/>
 
-	[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,nodejs,express)](https://skillicons.dev)
+### 🗃️ <b>Databases</b>  
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-<br>
+<br/>
 
-- ### Databases:
+### 🧪 <b>Testing</b>  
+[![My Skills](https://skillicons.dev/icons?i=jest,selenium,postman,vitest)](https://skillicons.dev)
 
-	[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-    
-<br>
+<br/>
 
-- ### Testing:
+### ☁️ <b>Cloud & Hosting</b>  
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
-	[![My Skills](https://skillicons.dev/icons?i=jest,selenium,postman,vitest)](https://skillicons.dev)
-    
-<br>
+<br/>
 
-- ### Cloud Hosting:
+### 🔁 <b>Version Control & CI/CD</b>  
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker)](https://skillicons.dev)
 
-	[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+<br/>
 
-<br>
+### 🧰 <b>Tools & IDEs</b>  
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,bash,powershell,windows,linux,md,figma)](https://skillicons.dev)
 
-- ### Version Control & CI/CD:
+<br/>
 
-	[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker)](https://skillicons.dev)
-  
-<br>
+### 🧿 <b>Extras</b>  
 
-- ### Softwares and Tools:
-
-	[![My Skills](https://skillicons.dev/icons?i=vscode,idea,bash,powershell,windows,linux,md,figma)](https://skillicons.dev)
-
-<br>
-
-- ### Extras:
-
-	![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-	![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-	![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-	![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-	![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 </p>
 
-<br>
+<br/>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
+</p>
 
-<br>
+<br/>
 
 ## 📚 Currently Learning
 
