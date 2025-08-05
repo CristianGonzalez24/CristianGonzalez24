@@ -27,7 +27,7 @@ With a solid foundation in both frontend and backend technologies, I'm constantl
 <br>
 </div>
 
-## <picture><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50px"></picture> <b>About Me</b>
+## <picture><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="30px"></picture> <b>About Me</b>
 
 <picture>
   <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="250px">
@@ -115,19 +115,41 @@ With a solid foundation in both frontend and backend technologies, I'm constantl
 
 <br/>
 
-## <picture><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODR1OXgydms5MHMyNG85cDVwYjg5Z3kzMnIwcmJxMXNwYjJibGg4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GrPgFtvyLlgElFiO7m/giphy.gif" width="25px"></picture> <b>Currently Learning</b>
+## <picture><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODR1OXgydms5MHMyNG85cDVwYjg5Z3kzMnIwcmJxMXNwYjJibGg4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GrPgFtvyLlgElFiO7m/giphy.gif" width="25px"></picture> <b>On My Learning Path</b>
 
 <div align="center">
 
 | 🔐 Security | 🎨 UI/UX | ⚛️ React Advanced | 🧪 Quality Assurance |
 |-------------|-----------|-------------------|----------------------|
-| OAuth 2.0 Authentication | Web Accessibility | Infinite Scrolling | Code Testing |
-| Secure Cookie Management | UI/UX Best Practices | Context API Patterns | Documentation |
-| Refresh Token Strategies | Responsive Design | Performance Optimization | Code Reviews |
+| OAuth 2.0 Authentication | Web Accessibility ✔️ | Infinite Scrolling ✔️ | Code Testing |
+| Secure Cookie Management ✔️ | UI/UX Best Practices | Context API Patterns | Documentation ✔️ |
+| Refresh Token Strategies ✔️ | Responsive Design ✔️ | Performance Optimization | Code Reviews |
 
 </div>
 
 <br>
+
+## <picture><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczAxbTBybnVqZzhybWR1ZWptbHN6aGQybWU0NGcyMzl4NnB4eGI2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DQMDis4Dc8ujx9nCcE/giphy.gif" width="25px"></picture> <b>Selected Projects</b>
+
+<div align="center">
+	
+| Name | Description |
+|------|-------------|
+| [_Hospital App_](https://github.com/CristianGonzalez24/CRUD-nodejs-mysql) | Web system to browse and contact doctors. Built with React, Node, and MySQL. |
+| [_To-Do App_](https://github.com/CristianGonzalez24/todo-list-with-login) | A task manager with login/register and full CRUD operations (MERN stack). |
+| [_Calculator App_](https://github.com/CristianGonzalez24/calculator-web) | An interactive calculator with a modern design built with HTML, CSS and JavaScript. |
+
+<h4 align="center">These projects are fully open source and constantly improving!</h4>
+
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
+</p>
+
+<br/>
 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 <div align="center">
@@ -138,80 +160,77 @@ With a solid foundation in both frontend and backend technologies, I'm constantl
 
 <br>
 
-## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture><b> GitHub Statistics </b>
+## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"></picture><b> GitHub Statistics </b>
 
 <br>
 
 <div align="center">
 
 <a href="https://github.com/CristianGonzalez24?tab=repositories" target="_blank">
-<picture>
-	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CristianGonzalez24&layout=compact&theme=github_dark&card_width=600px&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
-
-</picture>
-	
-<picture>
-	
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianGonzalez24/CristianGonzalez24/main/public/langs_overview_dark.gif">
-
-<img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/your-user-name/your-repo-name/your-branch-name/your-assets-folder-name/content-name-light.gif" width="60%">
-
-</picture>
-
-<picture>
-	
-  <img src="/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="600">
-  
-</picture>
-
-<picture>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CristianGonzalez24&theme=tokyonight)](https://git.io/streak-stats)
-
-</picture>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianGonzalez24&layout=compact&theme=github_dark&card_width=600px&disable_animations=true" />
 </a>
-</div>
 
-<br>
+<br><br>
 
-<div align=center>
-	
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianGonzalez24/CristianGonzalez24/main/public/langs_overview_dark.gif">
+  <img alt="Image changing depending on Dark/Light Github theme mode." src="https://raw.githubusercontent.com/CristianGonzalez24/CristianGonzalez24/main/public/langs_overview_light.gif" width="60%">
+</picture>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/CristianGonzalez24/CristianGonzalez24/main/metrics.plugin.isocalendar.fullyear.svg" width="600" alt="Calendar Metrics" />
+
+<br><br>
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=CristianGonzalez24&theme=tokyonight" />
+</a>
+
+<br><br>
+
 **Happy Coding!** 😎
-
 </div>
 
-<br>
+<br/>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
+</p>
 
-<br>
+<br/>
 
-## 🌟 What I Bring to the Table
+## <picture><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTdwbTMxZ2JoaTVxM3VyOG9zZWRnMDhqYXl2anlyYWZrcjFweGFibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/0RzWZfiYQmHB9yCEyJ/giphy.gif" width="25"></picture><b> What I Bring to the Table </b> 
 
 ```javascript
 const cristianGonzalez = {
-  code: ['JavaScript', 'Java', 'HTML', 'CSS', 'SQL'],
+  languages: ['JavaScript', 'Java', 'HTML', 'CSS', 'SQL'],
   technologies: {
-    frontEnd: ['React', 'SASS', 'Responsive Design'],
-    backEnd: ['Node.js', 'Express', 'RESTful APIs'],
+    frontend: ['React', 'SASS', 'Responsive Design'],
+    backend: ['Node.js', 'Express', 'RESTful APIs'],
     databases: ['MySQL', 'MongoDB'],
-    tools: ['Git', 'Vite', 'Axios', 'Zod']
+    tools: ['Git', 'Vite', 'Docker]
   },
   strengths: [
-    'Quick learner',
-    'Problem solver',
-    'Team collaboration',
-    'Attention to detail',
-    'Growth mindset'
+    'Fast learner, curious by nature',
+    'Clean and readable code enthusiast',
+    'Enjoys solving bugs like puzzles 🧩',
+    'Strong focus on usability and detail',
+    'Always eager to learn from others'
   ],
-  currentFocus: 'Building production-ready applications',
-  funFact: 'I debug with console.log() and I\'m not ashamed! 😄'
+  currentFocus: 'Building real-world apps that solve real-world problems',
+  openTo: ['Full-time roles', 'Remote work', 'Junior Developer opportunities'],
+  funFact: 'I once spent 4 hours debugging a missing semicolon — I learned a lot that day 😅'
 };
-```
 
-<br>
+```
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
+</p>
+
+<br/>
 
 ## <picture><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width ="80px"></picture><b>Let's Connect!</b>
 I'm always excited to connect with fellow developers, potential mentors, and employers who are looking for someone passionate about web development!
@@ -221,12 +240,7 @@ I'm always excited to connect with fellow developers, potential mentors, and emp
 <a href="" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px"/>
 </a>
-<!--
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cristiangonzalez-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://cristiangonzalez.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristian.gonzalez.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cristiangonzalez)
--->
+
 </div>
 
 ---
@@ -243,19 +257,3 @@ If you're looking for someone who brings **enthusiasm**, **dedication**, and a *
 ⭐️ From [Cristian Gonzalez](https://github.com/CristianGonzalez24) | *Building the web, one commit at a time* 🚀
 
 </div>
-
-
-<!-- <h2 align="center"><u>My Best Works</u></h2>
-https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczAxbTBybnVqZzhybWR1ZWptbHN6aGQybWU0NGcyMzl4NnB4eGI2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/DQMDis4Dc8ujx9nCcE/giphy.gif
-
-| Name                  | Description                                                |
-| ---------------------------------|--------------------------------------------------------------- |
-| _[Repository Readme Generator](https://github.com/KasRoudra/repository-readme-generator)_            | Generate a beautiful Readme.md for your repository.             |
-| _[PyPhisher](https://github.com/KasRoudra/pyphisher)_                          | Ultimate phishing tool in python with 64 website templates.     |
-| _[YT-Downloader](https://github.com/KasRoudra/YT-Downloader)_                  | Download youtube audio or videos from command line.             |
-| _[MusPlayer](https://github.com/KasRoudra/MusPlayer)_                         | Play music in termux by mpv.                                     |
-| _[Messenger-Desktop](https://github.com/KasRoudra/messengerdesktop)_           |  Messenger in desktop mode for easy file sharing.                |
-| _[K-Fuscator](https://github.com/KasRoudra/k-fuscator)_                       | Encrypt or decrypt shell script and compile python scripts       |
-| _[CamHacker](https://github.com/KasRoudra/CamHacker)_                         | Hack anyone's camera with a phishing link.                       |
-| _[Local2Internet](https://github.com/KasRoudra/Local2Internet)_               | Expose locally hosted website into all over internet.            |
-<h4 align="center">All of these are open source!</h4> -->
