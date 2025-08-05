@@ -232,28 +232,24 @@ const cristianGonzalez = {
 
 <br/>
 
-## <picture><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width ="80px"></picture><b>Let's Connect!</b>
-I'm always excited to connect with fellow developers, potential mentors, and employers who are looking for someone passionate about web development!
+## <picture><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="40px"></picture><b>Let's Connect!</b>
+
 <div align="center">
 
- [<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50px"/>](## "cristiangonzalez96")
-<a href="" target="_blank">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px"/>
-</a>
+I'm always happy to connect with fellow developers, share knowledge, and explore new opportunities in web development. If you’d like to chat about projects, collaborate, or simply say hi, feel free to reach out!
+
+[<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50px" title="Discord: cristiangonzalez96"/>](#)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50px" title="LinkedIn Profile"/>](https://www.linkedin.com/in/cristian-gonzalez-dev/) &nbsp;&nbsp;&nbsp;
 
 </div>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
+</p>
 
 <div align="center">
   
-### 💼 Open to Opportunities
-**I'm actively seeking my first role as a full-stack developer!**
-
-If you're looking for someone who brings **enthusiasm**, **dedication**, and a **strong willingness to learn**, let's talk!
-
----
-
-⭐️ From [Cristian Gonzalez](https://github.com/CristianGonzalez24) | *Building the web, one commit at a time* 🚀
+⭐️ Made with passion by **Cristian Gonzalez** | *Fueled by coffee, code, and curiosity.* ☕💻
 
 </div>
