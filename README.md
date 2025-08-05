@@ -245,7 +245,7 @@ I'm always happy to connect with fellow developers, share knowledge, and explore
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
 <div align="center">
